@@ -1,6 +1,9 @@
 # Layot-1
 
-![изображение](https://user-images.githubusercontent.com/88831850/143745766-393a5b06-24d9-449a-b74c-f963b092022d.png)
+Задание для команды DreamDev, верстка форма по макету из Figma
+
+![изображение](https://user-images.githubusercontent.com/88831850/143781464-4e1300bd-507b-4f7f-b1ce-d5d27a8d828a.png)
 
 
-![изображение](https://user-images.githubusercontent.com/88831850/143754026-d4b11390-f6ac-4421-9fda-e1cf70cf2b3d.png)
+![изображение](https://user-images.githubusercontent.com/88831850/143781467-28f2fdd3-e1d7-4e52-b289-45144c2baafb.png)
+
