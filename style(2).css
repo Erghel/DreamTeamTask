@@ -1,0 +1,81 @@
+form {
+  position: absolute;
+  width: 560px;
+  height: 732.06px;
+  left: 140px;
+  top: 167.95px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 64px rgba(44, 66, 255, 0.3);
+  border-radius: 10px;
+}
+.form-wrap:after, form div:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+form div {
+  margin-bottom: 15px;
+  position: relative;
+}
+h1 {
+  position: relative;
+  margin-top: 50px;
+  font-size: 40px;
+  line-height: 63px;
+  text-align: center;
+  color: #2061E6;
+  font-family: Roboto;
+}
+h2 {
+}
+}
+label, span {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+input[type="text"], input[type="email"] {
+  width: 373.6px;
+  height: 62.67px;
+  left: 233.2px;
+  top: 461.82px;
+  padding: 10px 15px;
+  border-width: 0;
+  background: #ffffff;
+  outline: none;
+  margin: 0;
+  border: 1px solid #2061E6;
+  box-sizing: border-box;
+}
+input[type="text"]:focus, input[type="email"]:focus, input[type="tel"]:focus {
+  box-shadow: inset 0 0 0 2px rgba(0,0,0,.2);
+}
+
+button {
+  width: 373.6px;
+  height: 62.67px;
+  left: 233.2px;
+  top: 716.84px;
+  background: #2061E6;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #FFFFFF;
+}
+p {
+  width: 111px;
+  height: 22px;
+  left: 364.5px;
+  top: 266.3px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  line-height: 22px;
+  text-align: center;
+  color: #545454;
+}
