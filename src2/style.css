@@ -1,11 +1,11 @@
 form {
-    margin: 40px auto;
-    box-shadow: 0px 4px 64px rgba(44, 66, 255, 0.3);
-    border-radius: 10px;
-    max-width:560px;
-    font-family: 'Roboto', sans-serif; 
-    display: flex;
-    flex-direction: column;
+  margin: 40px auto;
+  box-shadow: 0px 4px 64px rgba(44, 66, 255, 0.3);
+  border-radius: 10px;
+  max-width:560px;
+  font-family: 'Roboto', sans-serif; 
+  display: flex;
+  flex-direction: column;
 }
 .form-wrap:after, form div:after {
   content: "";
@@ -125,15 +125,15 @@ p {
   color: #545454;
 }
 section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 #male, #female {
   text-align: center;
 }
 .checkbox {
-    min-width: 28px;
-    min-height: 28px;
-    margin-right: 15px;
+  min-width: 28px;
+  min-height: 28px;
+  margin-right: 15px;
 }
